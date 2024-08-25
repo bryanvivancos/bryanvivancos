@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy Ingeniero Electrónico y Telecomunicaciones desde 2022.
+
+Autodidacta aprendiendo y capacitándome poco a poco más sobre este enorme y maravilloso mundo del desarrollo y programación.
+
+- 🔭 Actualmente trabajo ejerciendo en el campo de la administración de redes, administración de servidores, IT
+- 🌱 Estoy aprendiendo desarrollo web, desarrollo de software, python
