@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Ingeniero Electrónico y Telecomunicaciones desde 2022.
+Soy Ingeniero Electrónico y Telecomunicaciones desde 2021.
 
 Autodidacta aprendiendo y capacitándome poco a poco más sobre este enorme y maravilloso mundo del desarrollo y programación.
 
