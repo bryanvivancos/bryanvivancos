@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Ingeniero Electrónico y Telecomunicaciones desde 2021.
+Soy Desarrollador apasionado por la tecnología, asímismo Ingeniero de Telecomunicaciones desde 2021 Titulado.
 
 Autodidacta aprendiendo y capacitándome poco a poco más sobre este enorme y maravilloso mundo del desarrollo y programación.
 
-- 🔭 Actualmente trabajo ejerciendo en el campo de la administración de redes, administración de servidores, IT
-- 🌱 Estoy aprendiendo desarrollo web, desarrollo de software, python
+- 🔭 Actualmente trabajo desarollando proyectos personales y para clientes con mi startup VINCODE, asímismo ejerciendo en el campo de TI.
+- 🌱 Continúo aprendiendo y mejorando mis habilidades en desarrollo web, desarrollo de software, python, bases de datos
+- 📫 Puedes contactar conmigo ingresando a mi portfolio: https://bryanvivancos.netlify.app/
