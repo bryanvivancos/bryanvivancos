@@ -25,6 +25,6 @@ Autodidacta aprendiendo y capacitándome poco a poco más sobre este enorme y ma
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,astro,aws,bash,cloudflare,react,supabase,django,express,fastapi,bootstrap,arduino&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,astro,nextjs,react,aws,bash,cloudflare,supabase,django,express,fastapi,postman,bootstrap,arduino&perline=7" />
   </a>
 </p>
