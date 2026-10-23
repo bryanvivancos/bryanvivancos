@@ -21,4 +21,10 @@ Autodidacta aprendiendo y capacitándome poco a poco más sobre este enorme y ma
 
 - 🔭 Actualmente trabajo desarollando proyectos personales y para clientes con mi startup VINCODE, asímismo ejerciendo en el campo de TI.
 - 🌱 Continúo aprendiendo y mejorando mis habilidades en desarrollo web, desarrollo de software, python, bases de datos
-- 📫 Puedes contactar conmigo ingresando a mi portfolio: https://bryanvivancos.netlify.app/
+- 📫 Puedes contactar conmigo ingresando a mi portfolio: https://heybryan.net/
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,astro,aws,bash,cloudflare,react,supabase,django,express,fastapi,bootstrap,arduino&perline=6" />
+  </a>
+</p>
